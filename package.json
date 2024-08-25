@@ -1,0 +1,21 @@
+{
+  "name": "@wiyit/create-wiy",
+  "version": "1.0.0-beta.3",
+  "description": "Creator for wiy.",
+  "scripts": {},
+  "bin": {
+    "create-wiy": "bin/create-wiy.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "create-wiy"
+  ],
+  "author": "wiyit",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "url": "git+https://github.com/wiyit/create-wiy.git"
+  }
+}
