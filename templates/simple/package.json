@@ -1,0 +1,20 @@
+{
+  "name": "wiy-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "wiy --config wiy.config.dev.js",
+    "build-test": "wiy --config wiy.config.test.js",
+    "build-prod": "wiy --config wiy.config.prod.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wiyit/wiy": "^1.0.0-beta.6",
+    "@wiyit/wiy-ui": "^1.0.0-beta.1"
+  },
+  "devDependencies": {
+    "@wiyit/wiy-cli": "^1.0.0-beta.2"
+  }
+}
