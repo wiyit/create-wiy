@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@wiyit/wiy": "^1.0.0-beta.6",
-    "@wiyit/wiy-ui": "^1.0.0-beta.1"
+    "@wiyit/wiy": "^1.0.0",
+    "@wiyit/wiy-ui": "^1.0.0-beta.4"
   },
   "devDependencies": {
-    "@wiyit/wiy-cli": "^1.0.0-beta.2"
+    "@wiyit/wiy-cli": "^1.0.0-beta.3"
   }
 }
